@@ -1,0 +1,28 @@
+body{
+background-color: salmon;
+}
+
+h1{
+    color:rgb(7, 7, 7);
+    font-weight: 20;
+}
+
+p{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+h3{
+    color:darkblue;
+}
+
+h2{
+    color:teal;
+}
+
+#footer{
+    font-weight: 800;
+    text-shadow: 5px 5px 5px grey;
+}
